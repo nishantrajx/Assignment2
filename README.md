@@ -4,7 +4,7 @@
 **Registration Number:** 12308423
 
 ## Deployed Website Link
-[http://your-bucket-name.s3-website-us-east-1.amazonaws.com](http://nish-assignment-2.s3-website.ap-south-1.amazonaws.com)
+http://nish-assignment-2.s3-website.ap-south-1.amazonaws.com
 
 ## Screenshots
 
